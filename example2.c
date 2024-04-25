@@ -1,7 +1,5 @@
 /*parcurgere  graf cu DFS/BFS*/
 
-//Imi cer scuze in avans
-
 #include <stdlib.h>
 
 #include <stdio.h>
