@@ -210,5 +210,4 @@ int main()
     printf("parcurgere cu BFS:");
     BFS(graph, starting_vertex);
     printf("\n");
-    
 }
