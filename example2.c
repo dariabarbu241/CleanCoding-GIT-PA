@@ -211,4 +211,8 @@ int main()
     BFS(graph, starting_vertex);
     printf("\n");
     
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fa528b46ef7b16d8069708c475b022584cf24a09
